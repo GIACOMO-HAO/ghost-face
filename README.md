@@ -3,7 +3,9 @@
 > **We observe AI — but really, we're observing ourselves.**
 > 我们在观察 AI，其实在重新观察「人」——10 个前沿大模型的主观行为观察日记，不测代码、不测数学，只看压力下照出的"人格"。
 
-**Live**: https://ghost-face.vercel.app · 中文版: https://ghost-face.vercel.app/zh.html
+[简体中文](README.zh-CN.md)
+
+**Live**: https://ghost-face.vercel.app · 中文站点: https://ghost-face.vercel.app/zh.html
 
 ## Why
 
