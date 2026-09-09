@@ -97,6 +97,8 @@ Four stamps so far, oldest last:
 - Subjective behavioral observation at a specific point in time — models update, the observed profiles drift (we track that too)
 - Client and brand names in observation logs are pseudonymized; real business details generalized
 - Not affiliated with any model vendor or Andrej Karpathy
+- Probe counts per model are small; differences between same-generation models may be noise. Read the panel, not the number.
+- The "personality" is a face we summoned with our prompts. Ask differently and you will get a different face.
 
 ## Join us
 
